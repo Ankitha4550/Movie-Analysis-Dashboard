@@ -99,6 +99,7 @@ Movie Dashboard/
 └── screenshots/               # Dashboard Images (Optional)
 
 🚀 How to Use
+
 Download or clone this repository.
 Open movie.pbix using Power BI Desktop.
 Ensure movie data set.xlsx is available in the correct location.
@@ -106,6 +107,7 @@ Refresh the data if required.
 Use the interactive visuals and filters to explore the dashboard.
 
 📌 Dashboard Components
+
 KPI Cards
 Donut Chart
 Clustered Bar Chart
